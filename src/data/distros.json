@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Arch Linux",
+    "slug": "arch",
+    "website": "https://archlinux.org",
+    "tags": ["rolling", "diy", "pacman"]
+  },
+  {
+    "name": "Fedora Linux",
+    "slug": "fedora",
+    "website": "https://fedoraproject.org",
+    "tags": ["immutable", "stable", "dnf"]
+  },
+  {
+    "name": "Void Linux",
+    "slug": "void",
+    "website": "https://voidlinux.org",
+    "tags": ["rolling", "unique", "xbps"]
+  }
+]
